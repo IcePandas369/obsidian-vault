@@ -1,0 +1,20 @@
+.callout[data-callout="theorem"] {
+    --callout-color: 80, 120, 255;
+    --callout-icon: lucide-bookmark;
+}
+.callout[data-callout="definition"] {
+    --callout-color: 28, 176, 117;
+    --callout-icon: lucide-pencil;
+}
+.callout[data-callout="proof"] {
+    --callout-color: 120, 120, 120;
+    --callout-icon: lucide-check-circle;
+}
+.callout[data-callout="lemma"] {
+    --callout-color: 230, 150, 40;
+    --callout-icon: lucide-lightbulb;
+}
+.callout[data-callout="corollary"] {
+    --callout-color: 180, 80, 220;
+    --callout-icon: lucide-star;
+}
