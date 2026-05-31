@@ -12,8 +12,7 @@ source: Hatcher, Algebraic Topology, pp. 5-8
 
 # Cell Complexes
 
-This is the way that Hatcher likes to approach topological constructions formally. This sets up the general framework for [simplical complexes] that are used heavily in [topol:e /mnt/c/Users/risha/obsidian/math/algebraic-topology/ch0/cell-complexes.md
-ogical data analysis].
+This is the way that Hatcher likes to approach topological constructions formally. This sets up the general framework for [[simplical complexes]] that are used heavily in [[topogical data analysis]].
 
 An ideal prerequisite to reading this section is to have a good understanding of classification of surfaces, as well as the construction of the torus and the Klein bottle haha.
 
